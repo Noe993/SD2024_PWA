@@ -83,12 +83,12 @@ a{
 
 
 .price-box--violet .price-box__img{
-  background-image: url("/img/imgtrabajo.jpeg");
+  background-image: url("img/imgtrabajo.jpeg");
 
 }
 
 .price-box--blue .price-box__img{
-  background-image: url("/img/imgyo.jpg");
+  background-image: url("img/imgyo.jpg");
 
 }
 
